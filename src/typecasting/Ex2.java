@@ -6,6 +6,7 @@ public class Ex2 {
 		
 		VIPCustomer2 vip = new VIPCustomer2("김브이");		//인스턴스 생성 !
 		
+		
 	}
 
 }
